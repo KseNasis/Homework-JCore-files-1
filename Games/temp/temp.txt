@@ -1,0 +1,12 @@
+Папка C:\Games\src создана;
+Папка C:\Games\res создана;
+Папка C:\Games\savegames создана;
+Папка C:\Games\temp создана;
+Папка C:\Games\src\main создана;
+Папка C:\Games\src\test создана;
+Папка C:\Games\res\drawables создана;
+Папка C:\Games\res\vectors создана;
+Папка C:\Games\res\icons создана;
+Файл C:\Games\src\main\Main.java создан;
+Файл C:\Games\src\main\Utils.java создан;
+Файл C:\Games\temp\temp.txt создан;
